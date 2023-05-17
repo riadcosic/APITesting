@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "6c0c81cf-fbe6-4c55-bd6d-d793567dbf52",
+		"name": "API QAMP",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "19969438"
+	},
+	"item": [
+		{
+			"name": "Login credentials",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Create booking",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Booking",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
