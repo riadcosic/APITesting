@@ -1,0 +1,7 @@
+Smoke testing is a type of software testing that is typically performed at the beginning of the development process to ensure that the most critical functions of a software application are working correctly. Smoke Testing is a software testing method that determines whether the employed build is stable or not. 
+
+Smoke test in Task 1 of this homework will be checking if create booking and check information on booking works properly.
+
+In Task 1 we will verify crutial functions of Restful-booker. Only condition that must me bet before testing is that the page is loaded.
+
+In Task 2 we check if Login function of Demo PlaceLab app is working. We are going to check login functionality with valid, invalid and empty credentials.
